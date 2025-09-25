@@ -1,6 +1,6 @@
 Welcome to the YACardEMU documentation for SEGA Derby Owners Club. 
 
-To get started with the SEGA Derby Owners Club version of YACardEmu, refer to the file YacardEmu Setup Instructions20250925v5.pdf
+To get started with the SEGA Derby Owners Club version of YACardEmu, refer to the file [YacardEmu Setup Instructions20250925v5.pdf]
 
 Next steps:
 Windows
