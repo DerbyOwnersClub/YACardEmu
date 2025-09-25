@@ -7,8 +7,7 @@ Download the documentation file with useful links and start installating.
 https://github.com/DerbyOwnersClub/YACardEmu/blob/main/YACardEmuGettingStartedwithUnix.pdf
 
 
-Next steps: Windows
-Windows instructions are in readme, located at
+Next steps: Windows instructions are in readme, located at
 https://github.com/GXTX/YACardEmu 
 
 
