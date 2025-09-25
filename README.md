@@ -12,5 +12,4 @@ https://github.com/GXTX/YACardEmu
 
 
 Get Social
-https://www.facebook.com/groups/derbyownersclub/?sorting_setting=CHRONOLOGICAL
-and enjoy your racing days with us :)
+Join us on facebook at: https://www.facebook.com/groups/derbyownersclub/?sorting_setting=CHRONOLOGICAL 
