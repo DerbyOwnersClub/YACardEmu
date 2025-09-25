@@ -10,7 +10,7 @@ Windows
 4. Review the instructions on how to setup on Unix are included in the YacardEmu Setup Instructions20250925v5.pdf
 
 Unix
-1. Download the file named YACardEmuGettingStartedwithUnix from the files list in this repo
+1. Download the file named YACardEmuGettingStartedwithUnix.pdf from the files list in this repo
 
 Join us on Facebook at https://www.facebook.com/groups/derbyownersclub/?sorting_setting=CHRONOLOGICAL and enjoy
 your racing days with us :)
