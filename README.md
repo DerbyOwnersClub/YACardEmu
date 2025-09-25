@@ -2,12 +2,11 @@ Welcome to the YACardEMU documentation for SEGA Derby Owners Club.
 
 Getting Started:
 
-Next Steps: Unix
+Unix
 Download the documentation file with useful links and start installating.
 https://github.com/DerbyOwnersClub/YACardEmu/blob/main/YACardEmuGettingStartedwithUnix.pdf
 
-
-Next steps: Windows instructions are in readme, located at
+Windows instructions are in the readme at
 https://github.com/GXTX/YACardEmu 
 
 
